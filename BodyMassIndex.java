@@ -7,8 +7,8 @@ private double height;
 	
 	//constructor
 	public BodyMassIndex(double m, double h) {
-		mass = m;
-		height = h;
+		this.mass = m;
+		this.height = h;
 	}
 	
 	// massGetter
