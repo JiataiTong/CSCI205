@@ -7,8 +7,8 @@ private int b;
 	
 	//constructor
 	public IntegerOperation(int x, int y) {
-		a = x;
-		b = y;
+		this.a = x;
+		this.b = y;
 	}
 	
 	//set
